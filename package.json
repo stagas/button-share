@@ -3,7 +3,7 @@
   "author": "stagas",
   "short": "stagas/button-share",
   "description": "A button to share app state as compressed URL and recover it.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -74,10 +74,10 @@
     "swcno": "0.1.1",
     "typescript": "4.7.3",
     "utr": "^0.2.0",
-    "vite-open": "^2.4.0"
+    "vite-open": "^3.0.1"
   },
   "dependencies": {
-    "sigl": "^0.0.5",
+    "sigl": "^1.0.0",
     "urlsafe-lzma": "1.0.4"
   }
 }
